@@ -1,0 +1,36 @@
+.prog_fl_page .row {
+	padding: 10px 0;
+	border-bottom: 1px solid #a9a9a9;
+}
+
+.prog_fl_page label, .prog_fl_page input, .prog_fl_page select{
+	margin: 10px 0;
+}
+
+.prog_fl_page input {
+	width: 500px;
+}
+
+.prog_fl_page label {
+	width: 400px;
+}
+
+.prog_fl_page .quicktags-toolbar input {
+	width: auto;
+}
+
+.prog_fl_page .btn {
+	width: auto;
+}
+
+.prog_fl_page #submit-button {
+	width: 150px;
+}
+
+#wpfooter {
+	display: none;
+}
+
+.box_btn_action {
+	padding-bottom: 30px;
+}
